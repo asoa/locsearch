@@ -1,0 +1,88 @@
+{'name':'Tanya Fletcher','phone':'205-240-8561','email':'tanya1andonly@hotmail.com','city':'Birmingham','state':'ALABAMA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Michele Grier','phone':'925-642-1178','email':'msgrier247@gmail.com','city':'Phoenix','state':'ARIZONA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Rasheen Carter-Thomas','phone':'623-694-4604','email':'rasheen@elysiumofaz.com','city':'Scottsdale','state':'ARIZONA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Honesty Shepard','phone':'202-689-7716','email':'hjshepa@gmail.com','city':'Little Rock','state':'ARKANSAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Adrena Logan','phone':'925-207-1972','email':'Be.naturallydivine@gmail.com','city':'Atioch','state':'CALIFORNIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Phyllis Slaughter','phone':'901-277-2608','email':'pslaugh.ps@gmail.com','city':'Murrieta','state':'CALIFORNIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Francine Bulaya','phone':'916-494-1114','email':'mbulaya@gmail.com','city':'Sacramento','state':'CALIFORNIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Miesha James','phone':'925-665-9246','email':'Ohmielocs@yahoo.com','city':'San Leandro','state':'CALIFORNIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shanae Adams','phone':'720-938-3082','email':'laroya18@gmail.com','city':'Aurora','state':'COLORADO','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Vanessa Collins','phone':'303-360-5913','email':'walkingitout1962@gmail.com','city':'Aurora','state':'COLORADO','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Sharifa Levy','phone':'303-994-7264','email':'Sharifalevy.sl@gmail.com','city':'Denver','state':'COLORADO','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Kendra Morgan','phone':'860-614-2755','email':'kendramorgan@sbcglobal.net','city':'Bloomfield','state':'CONNECTICUT','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Irene Scott','phone':'302-257-8751','email':'isabela.kutsushi@gmail.com','city':'Middletown','state':'DELAWARE','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Vondrea Earl-Cephas','phone':'302-465-0237','email':'vdrea2004@gmail.com','city':'New Castle','state':'JACKIEERWINSPEAKS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Dian Beecher','phone':'941-722-1372','email':'shawn_lyons@hotmail.com','city':'Bradenton','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Semakee Campbell','phone':'321-987-9321','email':'nuebian2000@yahoo.com','city':'Palm Bay','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jill Taylor','phone':'727-331-1422','email':'jilltaylor09@gmail.com','city':'Petersburg','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Aisha Clark','phone':'813-378-9606','email':'clarkaisha@gmail.com','city':'Tampa','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Felicia Johnson-Gaines','phone':'850-405-5227','email':'feliciasj01@gmail.com','city':'Temple Terrace','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Claudene McLeod','phone':'973-418-2504','email':'cadmcleod@brighthouse.com','city':'Winter Park','state':'FLORIDA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Kaila Freeman','phone':'706-305-7493','email':'kmbsfreeman@yahoo.com','city':'Augusta','state':'GEORGIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Franica Perry','phone':'678-481-9597','email':'fperry420@gmail.com','city':'Lithonia','state':'GEORGIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Georgia Hill','phone':'404-916-9587','email':'gtflemmings@yahoo.com','city':'Loganville','state':'GEORGIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Pamela Nobles','phone':'678-964-9913','email':'pnobles2006@yahoo.com','city':'McDonough','state':'GEORGIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Lynda Precourt','phone':'404-201-0103','email':'ayiteyfioa1@yahoo.com','city':'Sandy Springs','state':'GEORGIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Erica Woolridge','phone':'808-797-0124','email':'ericawoolridge@ymail.com','city':'Honolulu','state':'HAWAI','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Tracy Verse','phone':'773-824-5399','email':'twverse@gmail.com','city':'Honolulu','state':'ILLINOIS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Angel Ross','phone':'301-413-6608','email':'angelslocsnmore@gmail.com','city':'Bowie','state':'MARYLAND','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jamille Giles','phone':'240-244-9454','email':'mrsjgiles@gmail.com','city':'Clinton','state':'MARYLAND','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jessica Macauley','phone':'301-283-9145','email':'jessicasharese@yahoo.com','city':'Email','state':'MARYLAND','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Briana Gilchrist','phone':'973-508-2750','email':'gilchristbriana@gmail.com','city':'Email','state':'MARYLAND','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Terri Thompson','phone':'301-653-5241','email':'locksbycandi@hotmail.com','city':'Waldorf','state':'MARYLAND','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Cynthia Williams','phone':'617-283-4911','email':'sistazlocit@yahoo.com','city':'Brockton','state':'MASSACHUSETTS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Hannah Ndungu','phone':'347-576-3251','email':'karindungu@gmail.com','city':'Worcester','state':'MASSACHUSETTS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'De Lesiah','phone':'904-923-3299','email':'Ddleeca1@aol.com','city':'Detroit','state':'MICHIGAN','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Erica R. Tatum','phone':'734-845-0172','email':'erica_tatum10@hotmail.com','city':'Detroit','state':'MICHIGAN','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jamila Walker','phone':'313-820-2820','email':'jamamila1105@gmail.com','city':'Westland','state':'MICHIGAN','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Benita Smith','phone':'314-258-0314','email':'LocksSoSassy@gmail.com','city':'Florissant','state':'MISSOURI','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Golden Liles','phone':'816-444-4048','email':'goldenragsdale@gmail.com','city':'Kansas City','state':'MISSOURI','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Clarissa Brooks','phone':'816-935-2018','email':'clarissa6107@yahoo.com','city':'Lees Summit','state':'MISSOURI','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Crystal Williams','phone':'314-941-3307','email':'cgarlington.williams@gmail.com','city':'Louis','state':'MISSOURI','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Elaine Destiny-Bey','phone':'702-981-8122','email':'elainedestinybey@gmail.com','city':'Las Vegas','state':'NEVADA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Constance Nugent','phone':'908-859-6212','email':'locs2Befree@gmail.com','city':'Phillipsburg','state':'NEW JERSEY','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Delia Danzy','phone':'518-869-3689','email':'ddanzy92@gmail.com','city':'Phillipsburg','state':'NEW YORK','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Wonda Beaver','phone':'919-451-2480','email':'wondathbv2@frontier.com','city':'Canadaigua','state':'NEW YORK','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shishelyah Watkins','phone':'917-826-6945','email':'Shishelyah@aol.com','city':'Canadaigua','state':'NEW YORK','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Lisa Jacox','phone':'845-346-1945','email':'jacoxlisa@gmail.com','city':'Middletown','state':'NEW YORK','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Lakeia Bain','phone':'585-733-7737','email':'Keiakil27@yahoo.com','city':'Rochester','state':'NEW YORK','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Chaquenta Griffin','phone':'704-885-5629','email':'melaninlocz@gmail.com','city':'Charlotte','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Andrea Daye','phone':'336-671-6494','email':'anddaye@gmail.com','city':'Durham','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Linda Carr-Winston','phone':'910-494-3002','email':'ldcwinston@hotmail.com','city':'Fayetteville','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Tineka Pace','phone':'850-304-3963','email':'tinekapace844@gmail.com','city':'Midway Park','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shari Stancil','phone':'910-461-9489','email':'choc12346@gmail.com','city':'Rockingham','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Sheena Mitchell','phone':'910-289-1382','email':'sheenaking84@gmail.com','city':'Wallace','state':'NORTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Anita Ward','phone':'614-824-5566','email':'akward656@yahoo.com','city':'Columbus','state':'OHIO','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Delores Wren','phone':'440-396-4449','email':'wren.delores@yahoo.com','city':'Lorain','state':'OHIO','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Tamara Graham','phone':'484-326-4024','email':'metafly@gmail.com','city':'Media','state':'PENNSYLVANIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Obianuju Anyaogu','phone':'724-732-1018','email':'thecarpediemshoppe@yahoo.com','city':'Pittsburgh','state':'PENNSYLVANIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Denise Adams','phone':'803-699-3325','email':'robert_44_adams@earthlink.net','city':'Columbia','state':'SOUTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shenee Wakefield','phone':'864-354-5157','email':'luellawakefield@gmail.com','city':'Easley','state':'SOUTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Bonique Twiggs','phone':'843-860-0407','email':'bstylesone25@yahoo.com','city':'Goose Creek','state':'SOUTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Tami Brooks','phone':'864-787-0984','email':'tbrooks73@gmail.com','city':'Greenville','state':'SOUTH CAROLINA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jacqueline Bright','phone':'313-886-3837','email':'dhealthnut@aol.com','city':'Enville','state':'TENESSEE','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Demiko Branch','phone':'901-831-4552','email':'demikobranch@yahoo.com','city':'Memphis','state':'TENESSEE','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Renata Elliott','phone':'940-597-7584','email':'elliott0707@gmail.com','city':'Corinth','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Burnadette Hamilton','phone':'469-855-8659','email':'burnadettehamilton@gmail.com','city':'DeSoto','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Ariel White','phone':'314-637-5553','email':'Awhite1913@gmail.com','city':'Frisco','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Sharion Melton','phone':'281-743-4133','email':'kkriquet@comcast.net','city':'Houston','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Precious Nwigwe','phone':'713-748-9071','email':'nwigwep@yahoo.com','city':'Houston','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Sherice White','phone':'832-370-6219','email':'mz_dimples29@yahoo.com','city':'Houston','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shia Chapman','phone':'737-888-1116','email':'ndchapman88@Yahoo.com','city':'Round Rock','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Kimberly Stoker','phone':'903-244-0293','email':'msunikue@aol.com','city':'Texarkana','state':'TEXAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Wanda Murrell','phone':'434-637-7405','email':'Cakes9317@gmail.com','city':'Jarratt','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Laverne Amara','phone':'337-396-9144','email':'verne@novalocs.com','city':'Lorton','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Nerissa Allen','phone':'757-541-7496','email':'nerissaallen@gmail.com','city':'Portsmouth','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Cheryl A. Mizelle','phone':'804-677-0903','email':'calm0903@gmail.com','city':'Richmond','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Salita Richardson','phone':'804-591-9313','email':'sechilds1987@yahoo.com','city':'Ruther Glen','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Yolanda Tate','phone':'703-474-8789','email':'yolanda.m.tate@gmail.com','city':'Stafford','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Michelle Carr','phone':'228-265-2364','email':'michellelcarr@att.net','city':'Woodbridge','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Savanya Hall','phone':'703-565-8995','email':'savanyahall@gmail.com','city':'Woodbridge','state':'VIRGINIA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Shannelle Cleckley','phone':'202-498-3105','email':'shannelle.cleckley@gmail.com','city':'Woodbridge','state':'WASHINGTON','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Tiffany Tonge','phone':'268-764-8265','email':'tiffany.tonge@gmail.com','city':'Paul','state':'ANTIGUA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Jannila Wallace','phone':'246-241-9904','email':'jmbookey@yahoo.com','city':'Dalkeith','state':'BARBADOS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Marie Johnson','phone':'905-550-5669','email':'anne-mariejohnson@live.com','city':'Bowmanville','state':'ANADA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Zara Brown','phone':'647-706-3441','email':'locksinhamilton@gmail.com','city':'Hamilton','state':'ANADA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Alison Joseph-Lemire','phone':'647-430-0316','email':'allisonjl@msn.com','city':'Missisauga','state':'ANADA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Bernadette Kassi','phone':'613-890-4983','email':'bkkassi@yahoo.ca','city':'Ottawa','state':'ANADA','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}
+{'name':'Verna Thomas','phone':'340-244-2500','email':'veejay_03@yahoo.com','city':'Dubai','state':'THOMAS','approved':'1', 'r_certified':'0','ambassador':'0', 'website':'NA', 'likes':0}

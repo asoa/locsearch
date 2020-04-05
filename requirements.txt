@@ -1,0 +1,7 @@
+django-threadedcomments
+Django==3.0.3
+psycopg2
+Pillow
+django-bootstrap4
+djangorestframework
+django-markdownx

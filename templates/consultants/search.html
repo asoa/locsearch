@@ -1,0 +1,163 @@
+{% extends 'base.html' %}
+{% load humanize %}
+
+{% block content %}
+    <div class="starter-template">
+        <h1>Consultant Search</h1>
+        <p class="lead">Fill in the fields below to find a consultant.</p>
+    </div>
+
+  <!-- search form -->
+    <div class="container-sm">
+      <form action="{% url 'search' %}" >
+        <div class="form-row">
+          <div class="col">
+            <input type="text" name="city" class="form-control" placeholder="City (optional)" value="{{ values.city }}">
+          </div>
+          <div class="col">
+            <label class="sr-only">state</label>
+            <select name="state" class="form-control">
+                <option selected="true" disabled="disabled">State (All)</option>
+                {% for k,v in states.items %}
+                    <option value="{{ v }}"
+                    {% if v == values.state %}
+                        selected
+                    {% endif %}
+                    >{{ v }}</option>
+                {% endfor %}
+            </select>
+          </div>
+          <div class="col">
+            <input type="text" name="zipcode" class="form-control" disabled='disabled' placeholder="Zip (optional)">
+          </div>
+        </div>
+        <br>
+        <div class="form-row">
+          <div class="col">
+            <input type="text" name="name" class="form-control" placeholder="First/Last Name (optional)" value="{{ values.name }}">
+          </div>
+        <div class="col">
+          <input type="checkbox" name="trainee" value="trainee" {% if values.trainee %} checked="checked" {% endif %}>Trainee<br>
+          <input type="checkbox" name="certified" value="certified" {% if values.certified %} checked="checked" {% endif %}>"R" Certified<br>
+          <input type="checkbox" name="ambassador" value="ambassador" {% if values.ambassador %} checked="checked" {% endif %}>Brand Ambassador<br>
+          <input type="checkbox" name="approved" value="approved" {% if values.approved %} checked="checked" {% endif %}>Approved<br>
+          <input type="checkbox" name="trichology" value="trichology" {% if values.trichology %} checked="checked" {% endif %}>Trichology<br>
+        </div>
+          <div class="col">
+            <button type="submit" class="btn btn-primary">Search</button>
+          </div>
+        </div>
+      </form>
+    <hr>
+    </div>
+
+    <div>
+        <h1 class="text-center">Found Consultants/Trainees</h1>
+    </div>
+
+  <div class="d-flex justify-content-center">
+    <div class="container">
+      <div class="row">
+        {% if consultants %}
+          {% for consultant in consultants %}
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card-body">
+                    <div class="card bg-light mb-3" style="max-width: 18rem;">
+                      <div class="card-header">{{ consultant.name }}</div>
+                      <div class="card-body">
+                        <h5 class="card-title">{{consultant.city}}, {{consultant.state}}</h5>
+                        <p>{{consultant.phone}} or <a href="mailto:{{consultant.email}}?Subject=Inquiry">{{consultant.email}}</a></p>
+                        {% if consultant.web_site != 'NA' %}
+                          <p>Website: <a href="{{ consultant.web_site }}">{{ consultant.web_site }}</a></p>
+                        {% endif %}
+
+
+                        <button  onclick=f({{ consultant.id }}) id="thumbs-up-btn" class="btn btn btn-default like-btn active" type="button">
+                            <i class="fa fa-thumbs-up"  style="font-size:36px"></i>
+                            <span class="badge like-badge" id={{ consultant.id }} >{{ consultant.likes }}</span>
+                        </button>
+
+                      </div>
+                      <div class="card-footer bg-transparent">
+                        {% for field, value in consultant.items %}
+                            {% if value == True %}
+                                <button>{{ field }}</button>
+                            {% endif %}
+                        {% endfor %}
+                      </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        {% else %}
+            <div class="col-md-12">
+                <p>No Consultants Found</p>
+            </div>
+        {% endif %}
+
+
+      </div>
+    </div>
+    <div class="card-deck">
+
+    </div>
+  </div>
+{% endblock %}
+
+{% block my_javascript %}
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Up-Vote Consultant Confirmation</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+              <p>You are about to up-vote this consultant, Do you want to proceed?</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+            <button id='confirm' type="button" class="btn btn-primary">Up-vote</button>
+            <!-- listener for when modal is shown -->
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+        function f(vals) {
+            console.log(vals)
+            $('#exampleModal').modal(
+                $('#confirm').on('click',function () {
+                    var current_like = parseInt(document.getElementById(vals).innerHTML,10);
+                    {#document.getElementById(vals).innerHTML = ++current_like;#}
+                    $.ajax(
+                        {
+                            type:'GET',
+                            url:'like',
+                            data: {
+                                consultant_id: vals
+                            },
+
+                            success: function() {
+                                console.log('success');
+                                document.getElementById(vals).innerHTML = ++current_like;
+                                $('#exampleModal').modal('hide');
+
+                            },
+                            fail: function() {
+                                console.log('failed');
+                            }
+
+                        })
+                    $('#confirm').off('click');
+                }),
+            )
+
+        }
+    </script>
+
+{% endblock %}
