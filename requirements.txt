@@ -1,6 +1,6 @@
 django-threadedcomments
 Django==3.0.3
-psycopg2
+psycopg2-binary
 Pillow
 django-bootstrap4
 djangorestframework
