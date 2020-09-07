@@ -3,4 +3,4 @@
 
 ---
 
-### The site is hosted on AWS Elastic Beanstalk and is located here: [link to site](http://locsearch.devme.ninja/blog/blog/2/)
+### The site is hosted on AWS Elastic Beanstalk and is located here: [link to site](http://locsearch.devme.ninja)
